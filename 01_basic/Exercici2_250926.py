@@ -1,3 +1,3 @@
 # Exercici 2
 
-print("Python", "és", "divertit!", sep=" ")
+print("Python", "és", "divertit!", sep="-")
